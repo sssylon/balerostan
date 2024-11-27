@@ -1,0 +1,16 @@
+.navbar-brand img{
+    width: 50px;
+}
+
+.content p{
+    text-align: center;
+}
+.img1{
+    width: 300px;
+    border-style: solid;
+}
+.img2{
+    margin-left: 60%;
+    width: 300px;
+    border-style: solid;
+}
