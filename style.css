@@ -43,3 +43,15 @@ ul.rules{
     font-size: 200px;
     color: brown;
 }
+
+
+
+
+
+
+
+
+/* карточки */
+.news-list .col-sm-12:not(:last-child){
+    margin-bottom: 30px;
+}
